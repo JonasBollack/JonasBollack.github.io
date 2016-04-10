@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JonasBollack Blog</title>
+  <subtitle>欢迎大家来到我的博客~</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://jonasbollack.github.io/"/>
+  <updated>2016-04-10T14:08:04.686Z</updated>
+  <id>http://jonasbollack.github.io/</id>
+  
+  <author>
+    <name>JonasBollack</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>致我最爱的人</title>
+    <link href="http://jonasbollack.github.io/2016/04/10/%E8%87%B4%E6%88%91%E6%9C%80%E7%88%B1%E7%9A%84%E4%BA%BA/"/>
+    <id>http://jonasbollack.github.io/2016/04/10/致我最爱的人/</id>
+    <published>2016-04-10T13:51:42.000Z</published>
+    <updated>2016-04-10T14:08:04.686Z</updated>
+    
+    <content type="html">&lt;p&gt;我最爱的人小熙，你是我见过世界上最萌的女孩，我愿意用我的一生去呵护你，照顾你。希望你能感受到我的爱。我想用这个Blog，记录我们共同经历的一切。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我最爱的人小熙，你是我见过世界上最萌的女孩，我愿意用我的一生去呵护你，照顾你。希望你能感受到我的爱。我想用这个Blog，记录我们共同经历的一切。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
