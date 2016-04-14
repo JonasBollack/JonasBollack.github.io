@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jonasbollack.github.io/"/>
-  <updated>2016-04-14T14:08:43.493Z</updated>
+  <updated>2016-04-14T14:11:02.218Z</updated>
   <id>http://jonasbollack.github.io/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://jonasbollack.github.io/2016/04/14/%E6%88%91%E5%8F%82%E5%8A%A0%E4%BA%86%E7%99%BE%E5%BA%A6%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2/"/>
     <id>http://jonasbollack.github.io/2016/04/14/我参加了百度前端技术学院/</id>
     <published>2016-04-14T14:00:00.000Z</published>
-    <updated>2016-04-14T14:08:43.493Z</updated>
+    <updated>2016-04-14T14:11:02.218Z</updated>
     
-    <content type="html">&lt;h2 id=&quot;我的前端学习生涯&quot;&gt;&lt;a href=&quot;#我的前端学习生涯&quot; class=&quot;headerlink&quot; title=&quot;我的前端学习生涯&quot;&gt;&lt;/a&gt;我的前端学习生涯&lt;/h2&gt;&lt;h3 id=&quot;初识&quot;&gt;&lt;a href=&quot;#初识&quot; class=&quot;headerlink&quot; title=&quot;初识&quot;&gt;&lt;/a&gt;初识&lt;/h3&gt;&lt;p&gt;  &amp;#160;&amp;#160;在一开始的时候我对前端不甚了解，总觉得实现一个网页让全世界去访问是很炫酷的的事情，对我当初只会用C++来说未来是不了预计的。&lt;br&gt;  &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&amp;#160;&amp;#160;但是当有一天我的一个云南老乡兼舍友(真的是太&amp;amp;#@%有缘了，我居然在同一个宿舍能遇到老乡！)茶余饭后正在聊以后工作意向的问题，突然提到了Web前端这个职业，当时我就很感兴趣，之前在实验周的时候我在班上另一个老乡（我去！怎么这么多老乡!前端大神啊！）一行一行代码敲击出一个图书管理系统的时候，我惊呆了。所以慢慢让我了解了前端这个概念。并且和他踊跃报名参加了，由于报名需要三个人以上，我又拉了我的两个舍友（一个呆萌、一个强壮，简直一攻一受）最后当然也拉上了我的第二个大神老乡。开始了我的前端之旅。&lt;/p&gt;
+    <content type="html">&lt;h3 id=&quot;初识&quot;&gt;&lt;a href=&quot;#初识&quot; class=&quot;headerlink&quot; title=&quot;初识&quot;&gt;&lt;/a&gt;初识&lt;/h3&gt;&lt;p&gt;  &amp;#160;&amp;#160;在一开始的时候我对前端不甚了解，总觉得实现一个网页让全世界去访问是很炫酷的的事情，对我当初只会用C++来说未来是不了预计的。&lt;br&gt;  &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&amp;#160;&amp;#160;但是当有一天我的一个云南老乡兼舍友(真的是太&amp;amp;#@%有缘了，我居然在同一个宿舍能遇到老乡！)茶余饭后正在聊以后工作意向的问题，突然提到了Web前端这个职业，当时我就很感兴趣，之前在实验周的时候我在班上另一个老乡（我去！怎么这么多老乡!前端大神啊！）一行一行代码敲击出一个图书管理系统的时候，我惊呆了。所以慢慢让我了解了前端这个概念。并且和他踊跃报名参加了，由于报名需要三个人以上，我又拉了我的两个舍友（一个呆萌、一个强壮，简直一攻一受）最后当然也拉上了我的第二个大神老乡。开始了我的前端之旅。&lt;/p&gt;
 &lt;h3 id=&quot;相知&quot;&gt;&lt;a href=&quot;#相知&quot; class=&quot;headerlink&quot; title=&quot;相知&quot;&gt;&lt;/a&gt;相知&lt;/h3&gt;&lt;h6 id=&quot;HTML-CSS&quot;&gt;&lt;a href=&quot;#HTML-CSS&quot; class=&quot;headerlink&quot; title=&quot;HTML/CSS&quot;&gt;&lt;/a&gt;HTML/CSS&lt;/h6&gt;&lt;p&gt;  &amp;#160;&amp;#160;先接触的是HTML/CSS，觉得好高大上啊！这是什么东西！我怎么从来不知道我平常访问的新浪腾讯全是这些标签组织起来的！好吧经过慢慢的自学我还是逐渐略了门道。&lt;strong&gt;&lt;a href=&quot;http://115.28.156.224:307/&quot; title=&quot;南方柚子&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;南方柚子&lt;/a&gt;&lt;/strong&gt;这是我们团队在百度前端技术学院第一阶段所以人做的任务，最右边那个是我。其实很多人觉得HTML/CSS并不难，或者可以说学几天就会。不过我的理解HTML/CSS的难点不在语法，语法如果光看的话估计两天就能掌握百分之80%，难是难在对用户体验的把握，比如说我我虽然学了几天天可以这样：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/1NHkwv1.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;  但是如果我换成这样呢：&lt;/p&gt;
@@ -34,7 +34,7 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;我的前端学习生涯&quot;&gt;&lt;a href=&quot;#我的前端学习生涯&quot; class=&quot;headerlink&quot; title=&quot;我的前端学习生涯&quot;&gt;&lt;/a&gt;我的前端学习生涯&lt;/h2&gt;&lt;h3 id=&quot;初识&quot;&gt;&lt;a href=&quot;#初识&quot; class=&quot;headerlink&quot; title=&quot;初识&quot;&gt;&lt;/a&gt;初识&lt;/h3&gt;&lt;p&gt;  &amp;#160;&amp;#160;在一开始的时候我对前端不甚了解，总觉得实现一个网页让全世界去访问是很炫酷的的事情，对我当初只会用C++来说未来是不了预计的。&lt;br&gt;
+      &lt;h3 id=&quot;初识&quot;&gt;&lt;a href=&quot;#初识&quot; class=&quot;headerlink&quot; title=&quot;初识&quot;&gt;&lt;/a&gt;初识&lt;/h3&gt;&lt;p&gt;  &amp;#160;&amp;#160;在一开始的时候我对前端不甚了解，总觉得实现一个网页让全世界去访问是很炫酷的的事情，对我当初只会用C++来说未来是不了预计的。&lt;br&gt;
     
     </summary>
     
@@ -48,14 +48,14 @@
     <link href="http://jonasbollack.github.io/2016/04/10/%E8%87%B4%E6%88%91%E6%9C%80%E7%88%B1%E7%9A%84%E4%BA%BA/"/>
     <id>http://jonasbollack.github.io/2016/04/10/致我最爱的人/</id>
     <published>2016-04-10T13:51:42.000Z</published>
-    <updated>2016-04-14T14:00:47.597Z</updated>
+    <updated>2016-04-14T14:11:00.349Z</updated>
     
-    <content type="html">&lt;p&gt;我最爱的人小熙，你是我见过世界上最萌的女孩，我愿意用我的一生去呵护你，照顾你。希望你能感受到我的爱。我想用这个Blog，记录我们共同经历的一切。&lt;/p&gt;
+    <content type="html">&lt;p&gt;  &amp;#160;&amp;#160;我最爱的人小熙，你是我见过世界上最萌的女孩，我愿意用我的一生去呵护你，照顾你。希望你能感受到我的爱。我想用这个Blog，记录我们共同经历的一切。&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;我最爱的人小熙，你是我见过世界上最萌的女孩，我愿意用我的一生去呵护你，照顾你。希望你能感受到我的爱。我想用这个Blog，记录我们共同经历的一切。&lt;/p&gt;
+      &lt;p&gt;  &amp;#160;&amp;#160;我最爱的人小熙，你是我见过世界上最萌的女孩，我愿意用我的一生去呵护你，照顾你。希望你能感受到我的爱。我想用这个Blog，记录我们共同经历的一切。&lt;/p&gt;
 
     
     </summary>
